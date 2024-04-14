@@ -6,17 +6,17 @@
     --text-color: #1e3932;
     --text-secondary-color: rgba(0,0,0,.87);    
 }
-// main-color = order,uber eats,pride month    #d4e9e2
-// primary color = announcement section        #d8e8e3
-// secondary color = free coffee section       #f1f8f6
-// third color = chill section                 #f2f0eb
-// text color = all sections                   #1e3932
-// text secondary color = announcements,header sections and footer          rgba(0,0,0,.87)
+ /* main-color = order,uber eats,pride month    #d4e9e2
+ primary color = announcement section        #d8e8e3
+ secondary color = free coffee section       #f1f8f6
+ third color = chill section                 #f2f0eb
+ text color = all sections                   #1e3932
+ text secondary color = announcements,header sections and footer          rgba(0,0,0,.87)
 
-//light: "#3fbaeb",
-//DEFAULT: "#0fa9e6",
-//dark: "#0c87b8",
-
+light: "#3fbaeb",
+DEFAULT: "#0fa9e6",
+dark: "#0c87b8",
+ */
 
 .main-container {
     max-width: 1440px;
@@ -244,11 +244,11 @@ section {
     font-size: 14px;
     line-height: 1.75;
     font-weight: 500;
-
-
+}
+/* 
 //light: "#3fbaeb",
 //DEFAULT: "#0fa9e6",
 //dark: "#0c87b8",
 
 
-//announcements
+//announcements */
